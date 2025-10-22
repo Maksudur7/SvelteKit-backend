@@ -44,7 +44,7 @@ Copy code
 1. **Clone the repository**
 
 ```bash
-git clone <YOUR_BACKEND_REPO_URL>
+git clone https://github.com/Maksudur7/SvelteKit-backend.git
 cd sveltekit-backend
 Install dependencies
 
@@ -65,3 +65,4 @@ bash
 Copy code
 npm start
 The backend will run on http://localhost:5000
+
